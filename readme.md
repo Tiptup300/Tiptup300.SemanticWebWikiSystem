@@ -42,60 +42,71 @@ On August 31, 2014, Green was criticized for tweets relating to his sexual batte
 ```json
 [
     {
-        "_controversy": "June 16, 2011",
-        ".journalist": "Andrea Swensson",
-        ".publication": "City Pages",
-        ".review": "negative",
-        ".performance": "Green's performance",
-        "*description": "failed to measure up to the fun factor of his recorded material. Green spent most of the set stationed in front of a microphone at the center of the stage, barely moving an inch while he sang, and flanked by two forgettable back-up singers and a DJ that was all but hidden behind a giant LCD display",
-        ".response": "Green tweeted",
-        "*tweet": "I respect your criticism but be fair! People enjoyed last night! I'm guessing ur gay? And my masculinity offended u? well fuck U!"
+        "_domain": "music"
     },
     {
-        "_response": "June 17, 2011",
-        ".response": "Green tweeted",
-        "*tweet": "Apologies gay community! what was homophobic about that?"
+        "_controversy": {
+            "*date": "June 16, 2011",
+            "*journalist": "Andrea Swensson",
+            "*review": "negative",
+            "*performance": "Green's",
+            "*criticism": "failed to measure up to the fun factor of his recorded material. Green spent most of the set stationed in front of a microphone at the center of the stage, barely moving an inch while he sang, and flanked by two forgettable back-up singers and a DJ that was all but hidden behind a giant LCD display."
+        }
     },
     {
-        "_interview": "Us Weekly",
-        "*quote": "I am not harboring any sort of negative feeling toward the gay community",
-        "*statement": "I am one of the most liberal artists that I think you will ever meet, and I pride myself on that."
+        "_response": {
+            "*date": "June 17, 2011",
+            "*content": "I respect your criticism but be fair! People enjoyed last night! I'm guessing ur gay? And my masculinity offended u? well fuck U!",
+            "*source": "Green's tweet"
+        }
     },
     {
-        "_performance": "December 31, 2011",
-        "_song": "Imagine",
-        "_location": "New York City's Times Square",
-        "*lyricChange": "and no religion, too",
-        "*newLyric": "and all religions true",
-        ".response": "Green tweeted",
-        "*tweet": "Yo I meant no disrespect by changing the lyric guys! I was trying to say a world where u could believe what u wanted that's all"
+        "_response": {
+            "*date": "June 17, 2011",
+            "*content": "Apologies gay community! what was homophobic about that?",
+            "*source": "Green's tweet"
+        }
     },
     {
-        "_incident": "October 30, 2012",
-        "_accusation": "sexual battery",
-        ".location": "Los Angeles restaurant",
-        "*investigation": "Los Angeles Police Department",
-        "_plea": "not guilty",
-        "_charge": "furnishing a controlled substance",
-        ".prosecutor": "Los Angeles District Attorney's Office",
-        "*reasonForNoCharge": "insufficient evidence"
+        "_interview": {
+            "*date": "unknown",
+            "*magazine": "Us Weekly",
+            "*content": "Green stated that his comments were meant in good fun, adding that 'I am not harboring any sort of negative feeling toward the gay community' and that 'I am one of the most liberal artists that I think you will ever meet, and I pride myself on that.'"
+        }
     },
     {
-        "_plea": "no contest",
-        "_charge": "furnishing ecstasy",
-        "_sentence": "three years of probation, 360 hours of community service",
-        "_order": "complete 52 Alcoholics Anonymous or Narcotics Anonymous meetings",
-        "*date": "August 29, 2014"
+        "_performance": {
+            "*date": "December 31, 2011",
+            "*song": "Imagine",
+            "*event": "New Year's Eve at New York City's Times Square",
+            "*revisedLine": "and all religions true",
+            "*originalLine": "and no religion, too",
+            "*interpretation": "Many saw this as a substantial revision of the meaning behind Lennon's original lyrics."
+        }
     },
     {
-        "_incident": "August 31, 2014",
-        "_criticism": "tweets relating to his sexual battery court case",
-        "*specificTweets": [
-            "People who have really been raped REMEMBER!!!",
-            "If someone is passed out they're not even WITH you consciously! so WITH Implies consent."
-        ],
-        ".action": "temporarily deactivated his Twitter account",
-        "*apology": "I truly and deeply apologize for the comments attributed to me on Twitter. Those comments were idiotic, untrue and not what I believe."
+        "_response": {
+            "*date": "unknown",
+            "*content": "Yo I meant no disrespect by changing the lyric guys! I was trying to say a world where u could believe what u wanted that's all",
+            "*source": "Green's tweet"
+        }
+    },
+    {
+        "_tweets": {
+            "*date": "August 31, 2014",
+            "*criticism": "related to sexual battery court case",
+            "*tweets": [
+                "People who have really been raped REMEMBER!!!",
+                "If someone is passed out they're not even WITH you consciously! so WITH Implies consent."
+            ]
+        }
+    },
+    {
+        "_response": {
+            "*date": "August 31, 2014",
+            "*content": "I truly and deeply apologize for the comments attributed to me on Twitter. Those comments were idiotic, untrue and not what I believe.",
+            "*source": "Green's tweet"
+        }
     }
 ]
 ```
