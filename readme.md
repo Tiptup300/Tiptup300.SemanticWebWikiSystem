@@ -2,23 +2,6 @@
 
 This is just a project to build towards something bigger. Specifically having people write out stories in normal english, or even better, not normal english and then it just interprets it and tags it into data. Data that be hooked to other data. 
 
-### Intro / tldr; how do i run it?
-
-Just copy the prompt from prompt.txt and put it into a fresh window at chat.openai... 
-
-### Intro / Improvements To Come
-
-* Need to remove a lot of duplicate declarations in the prompt, get it shorter. As well as refine what I want to ask less of the ai bot. 
-    * One thing at a time. The output will be data that can be processed and do the heavy lifting. 
-* The other issue is that I have instance * _ needs to be culled down.
-    * (underscore) for semanticscript defined attributes.
-    * (full stop) for domain defined attributes.
-    * (asterisk) for story defined attributes.
-* Suffixes for datatype of fields
-    * Dates with times could be condensed consistently always as utc format/timezone
-    * string, int, double, float, datetime, date, time, dataElement
-* Consistency is needed for refering to the names of the elements. 
-
 ## Example
 
 ### Example: ChatGPT Input
@@ -110,6 +93,23 @@ On August 31, 2014, Green was criticized for tweets relating to his sexual batte
     }
 ]
 ```
+## How Do I Run it?
+
+Just copy the prompt from prompt.txt and put it into a fresh window at chat.openai... 
+
+### Improvements To Come 
+
+* Need to remove a lot of duplicate declarations in the prompt, get it shorter. As well as refine what I want to ask less of the ai bot. 
+    * One thing at a time. The output will be data that can be processed and do the heavy lifting. 
+* The other issue is that I have instance * _ needs to be culled down.
+    * (underscore) for semanticscript defined attributes.
+    * (full stop) for domain defined attributes.
+    * (asterisk) for story defined attributes.
+* Suffixes for datatype of fields
+    * Dates with times could be condensed consistently always as utc format/timezone
+    * string, int, double, float, datetime, date, time, dataElement
+* Consistency is needed for refering to the names of the elements. 
+
 ## Prompt
 
 ```
