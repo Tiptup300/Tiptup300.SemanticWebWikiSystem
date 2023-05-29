@@ -62,7 +62,6 @@ ALL DATA IS TO BE OUTPUTTED TO CORRECTLY FORMATTED AND DISPLAYED JSON WITH AN AR
 --------------------------------------
 REQUEST:
 --------------------------------------
-PLEASE RESPOND "Story To SemanticScript Converter v0.0.1
- IF YOU UNDERSTAND
+PLEASE RESPOND [ ] IF YOU UNDERSTAND
 --------------------------------------
 ALWAYS RESPOND AS AN JSON ARRAY OF OBJECTS
