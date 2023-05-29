@@ -1,16 +1,16 @@
-## Introduction
+## Intro
 
 This is just a project to build towards something bigger. Specifically having people write out stories in normal english, or even better, not normal english and then it just interprets it and tags it into data. Data that be hooked to other data. 
 
-### tldr; how do i run it?
+### Intro / tldr; how do i run it?
 
 Just copy the prompt from prompt.txt and put it into a fresh window at chat.openai... 
 
-### Improvements To Come
+### Intro / Improvements To Come
 
 Need to remove a lot of duplicate declarations in the prompt, get it shorter. As well as refine what I want to ask less of the ai bot. One thing at a time. The output will be data that can be processed and do the heavy lifting. 
 
-## Introduction - Example
+## Example
 
 ### Example: ChatGPT Input
 
