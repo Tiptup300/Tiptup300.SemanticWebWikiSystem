@@ -80,6 +80,7 @@ ALWAYS RESPONSD AS AN ARRAY OF OBJECTS
 
 ### ChatGPT Input
 
+```
 DOMAIN DATA:
 The domain is music. In music there are artists, there are albums, artists release albums, on these albums are songs or tracks. There are also eps lps, but they're all albums.
 
@@ -92,6 +93,7 @@ On December 31, 2011, Green sang John Lennon's "Imagine" just prior to the ball 
 On October 30, 2012, Green was accused of sexual battery by a woman with whom he had dined at a Los Angeles restaurant,[100][101] leading to a nearly year-long investigation by the Los Angeles Police Department.[102] On October 21, 2013, Green pleaded not guilty to a felony charge of furnishing a controlled substance after the Los Angeles District Attorney's Office declined to file a charge of rape of an intoxicated person, citing insufficient evidence.[103] On August 29, 2014, Green pleaded no contest to one felony count of furnishing ecstasy and was sentenced to three years of probation, 360 hours of community service, and ordered to complete 52 Alcoholics Anonymous or Narcotics Anonymous meetings.[104]
 
 On August 31, 2014, Green was criticized for tweets relating to his sexual battery court case. Two of his specific tweets regarding rape were "People who have really been raped REMEMBER!!!" and "If someone is passed out they're not even WITH you consciously! so WITH Implies consent." After sending a number of tweets on the topic of rape, he temporarily deactivated his Twitter account. He re-activated it a number of hours later, tweeting the following apology: "I truly and deeply apologize for the comments attributed to me on Twitter. Those comments were idiotic, untrue and not what I believe."[105]
+```
 
 ### ChatGPT Output
 ```json
