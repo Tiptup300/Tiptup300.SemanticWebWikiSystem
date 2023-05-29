@@ -6,6 +6,10 @@ This is just a project to build towards something bigger. Specifically having pe
 
 Just copy the prompt from prompt.txt and put it into a fresh window at chat.openai... 
 
+### Improvements To Come
+
+Need to remove a lot of duplicate declarations in the prompt, get it shorter. As well as refine what I want to ask less of the ai bot. One thing at a time. The output will be data that can be processed and do the heavy lifting. 
+
 ## Introduction - Example
 
 ### Example: ChatGPT Input
