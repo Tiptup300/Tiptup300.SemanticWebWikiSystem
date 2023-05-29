@@ -15,6 +15,7 @@ DO NOT have arrays of objects within one data element.
 
 SPECIAL CHARACTERS:
 
+% = This attribute is only used for %content.
 _ = This attribute prefix signifies that this attribute is a type identifier, There is to be ONLY ONE of these per data set.
 . = This attribute prefix signifies that this attribute is describing a relationship a data attribute is a reference to a parent data point.
 (none) = This signifies a data attribute thats specific to that type of data. 
@@ -65,3 +66,4 @@ REQUEST:
 PLEASE RESPOND [ ] IF YOU UNDERSTAND
 --------------------------------------
 ALWAYS RESPOND AS AN JSON ARRAY OF OBJECTS
+ALL OBJECTS MUST INCLUDE AN ADDITIONAL "%content" property that has a truncated copy of the content of that element
